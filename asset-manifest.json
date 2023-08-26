@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cep-ur-gikondo/static/css/main.7fb206c6.css",
+    "main.js": "/cep-ur-gikondo/static/js/main.0834796f.js",
+    "static/media/salem1.jpg": "/cep-ur-gikondo/static/media/salem1.9d5670f5cee0e1740a39.jpg",
+    "static/media/salem.jpg": "/cep-ur-gikondo/static/media/salem.9a09e3c75bb7a378795b.jpg",
+    "static/media/salem2.jpg": "/cep-ur-gikondo/static/media/salem2.e00b3231291a6785175c.jpg",
+    "static/media/horeb7.jpg": "/cep-ur-gikondo/static/media/horeb7.385affdc6a675b893a4c.jpg",
+    "static/media/horeb2.jpg": "/cep-ur-gikondo/static/media/horeb2.c0353ae9877f59001941.jpg",
+    "static/media/cep-logo.jpg": "/cep-ur-gikondo/static/media/cep-logo.05d18eed0755d14b675f.jpg",
+    "static/media/worship.jpg": "/cep-ur-gikondo/static/media/worship.fe0e829b3b7d026c3979.jpg",
+    "static/media/horeb1.jpg": "/cep-ur-gikondo/static/media/horeb1.a1f1ee0a21b2d067bc86.jpg",
+    "static/media/horeb6.jpg": "/cep-ur-gikondo/static/media/horeb6.033127ffe6f56d6a09d6.jpg",
+    "static/media/salem3.jpg": "/cep-ur-gikondo/static/media/salem3.f0de29a71b43de204669.jpg",
+    "static/media/cross.webp": "/cep-ur-gikondo/static/media/cross.226c8b91501fd941f961.webp",
+    "index.html": "/cep-ur-gikondo/index.html",
+    "main.7fb206c6.css.map": "/cep-ur-gikondo/static/css/main.7fb206c6.css.map",
+    "main.0834796f.js.map": "/cep-ur-gikondo/static/js/main.0834796f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb206c6.css",
+    "static/js/main.0834796f.js"
+  ]
+}
