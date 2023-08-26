@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cep-ur-gikondo/static/css/main.7fb206c6.css",
-    "main.js": "/cep-ur-gikondo/static/js/main.0834796f.js",
+    "main.js": "/cep-ur-gikondo/static/js/main.9caa8ac7.js",
     "static/media/salem1.jpg": "/cep-ur-gikondo/static/media/salem1.9d5670f5cee0e1740a39.jpg",
     "static/media/salem.jpg": "/cep-ur-gikondo/static/media/salem.9a09e3c75bb7a378795b.jpg",
     "static/media/salem2.jpg": "/cep-ur-gikondo/static/media/salem2.e00b3231291a6785175c.jpg",
@@ -15,10 +15,10 @@
     "static/media/cross.webp": "/cep-ur-gikondo/static/media/cross.226c8b91501fd941f961.webp",
     "index.html": "/cep-ur-gikondo/index.html",
     "main.7fb206c6.css.map": "/cep-ur-gikondo/static/css/main.7fb206c6.css.map",
-    "main.0834796f.js.map": "/cep-ur-gikondo/static/js/main.0834796f.js.map"
+    "main.9caa8ac7.js.map": "/cep-ur-gikondo/static/js/main.9caa8ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.7fb206c6.css",
-    "static/js/main.0834796f.js"
+    "static/js/main.9caa8ac7.js"
   ]
 }
